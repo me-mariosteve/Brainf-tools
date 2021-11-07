@@ -1,2 +1,2 @@
-# Brainf-tools-and-CLI
+# Brainf-tools
  
